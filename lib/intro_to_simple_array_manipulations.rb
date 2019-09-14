@@ -56,7 +56,8 @@ def using_flatten(instuments)
   flat_array = instuments.flatten
 end
 
-def using_delete()
+def using_delete(instructors)
+  
 
 
 
